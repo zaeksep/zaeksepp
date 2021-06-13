@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- Generated from loaded keyboard! (locale 0x00000021) -->
+
+<keyboard
+    secondaryId="0x06"
+    primaryId="0x21"
+    defaultLayoutWidth="540"
+    defaultLayoutHeight="90"
+    addAltChars="false"
+    >
+
+    <area conditionValue="0">
+
+        <key
+            keyLabel="g"
+            keyType="nonRegional"
+            keyLeft="8dp"
+            keyTop="9dp"
+            keyWidth="125dp"
+            keyHeight="75dp"
+            keyCodes="0x0067,0x0068,0x0069"
+        />
+
+        <key
+            keyLabel="j"
+            keyType="nonRegional"
+            keyLeft="141dp"
+            keyTop="9dp"
+            keyWidth="125dp"
+            keyHeight="75dp"
+            keyCodes="0x006a,0x006b,0x006c"
+        />
+
+        <key
+            keyLabel="m"
+            keyType="nonRegional"
+            keyLeft="274dp"
+            keyTop="9dp"
+            keyWidth="125dp"
+            keyHeight="75dp"
+            keyCodes="0x006d,0x006e,0x006f"
+        />
+
+        <key
+            keyType="function"
+            keyLeft="407dp"
+            keyTop="9dp"
+            keyWidth="125dp"
+            keyHeight="75dp"
+            keyCodes="0x0b78"
+        />
+
+    </area>
+
+</keyboard>
